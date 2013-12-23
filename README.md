@@ -5,7 +5,8 @@ S.B.A.R.S - bioinformatics tool for search different types of long repeats in se
 
 Screenshot
 ----------------
-![SBARS](https://github.com/mpyatkov/sbars/blob/master/screenshot/SBARS.png)
+
+![SBARS](https://raw.github.com/mpyatkov/sbars/master/screenshot/SBARS.png)
 
 Linux:  
 ----------------
