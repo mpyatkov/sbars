@@ -1,3 +1,6 @@
+LAST UPDATE: 08.02.2014 // Program crashing on low resolution screens is fixed
+
+=====
 S.B.A.R.S - Spectral-Based Approach for Repeats Search
 =====
 
